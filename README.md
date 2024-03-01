@@ -1,5 +1,5 @@
 #                           **Hi there 👋, I'm Elisa**
-## Data Science student  interested in environmental and sustainability-related issues 🍃🌎
+## Data Science student  interested in environmental and sustainability-related issues 🍃
 
 - 🔭 Skills in analytics, machine learning, visualization and geospatial analysis
 - 🤝 I’m currently looking for new experiences
